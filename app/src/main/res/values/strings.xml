@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Laboratorio Calificado</string>
+    <string name="no_profesores">No se encontraron profesores.</string>
+    <string name="error_datos">Error al obtener los datos. Código: %1$d</string>
+    <string name="error_conexion">Error al conectarse: %1$s</string>
+</resources>
